@@ -1,0 +1,21 @@
+
+		Database of Bank Accounts
+
+First Name  Last Name 	    SSID      Account    Type      Balance  Status  Maturity Date
+Cass         Idy          111222333   999999    Savings    100.00   Closed
+Nivek        Frank        999888777   214365         CD    200.00     Open    2/2/2020
+Elen         Tulip        765432189   444555         CD    200.43     Open    1/20/2019
+Nell         Web          557766432   986754   Checking     25.54     Open
+Kim          Eugene       321789654   211234         CD    124.78     Open    7/12/2018
+Jose         Giovani      592311567   911911    Savings    400.00     Open
+Tina         Real         543876921   119119   Checking      0.00     Open
+Topher       Tony         999437233   473288   Checking    100.00     Open
+Veronica     Welsh        884713692   654321   Checking      1.00     Open
+Teresa       Gordo        134578912   437645    Savings    525.60     Open
+
+Total amount in Savings: 1025.60
+Total amount in Checking: 126.54
+Total amount in CD: 525.21
+Total amount in the Bank: 3054.40
+
+
